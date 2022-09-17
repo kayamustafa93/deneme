@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviyesi-net-core-patikasi) GIT derslerinde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## installation
-https://github.com/kayamustafa93/kodluyoruzilkrepo.git
+https://github.com/kayamustafa93/deneme.git
 
 ### Usage
 
